@@ -36,6 +36,8 @@ I'm afraid that `Go`, despite its potential, will remain the language for writin
 
 `Python` is obsolete, and its supposedly simple syntax is becoming a problem.
 
+I believe to work with Palantir, Anduril, SpaceX, ICEYE, etc. Becouse... It's COOL imho. High-tech, power, Brave New World, PayPal Mafia...
+
 ---
 
 
