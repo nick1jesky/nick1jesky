@@ -15,7 +15,7 @@ I specialize in building scalable backend systems and applying mathematical appr
 `Python` • `NumPy` • `PyTorch` • `R` • `Pandas` • `Scikit-learn`
 
 **Tools & Practices**
-`Git` • `Docker` • `Linux` • `CI/CD` • `Algorithms` • `Data Structures`
+`Git` • `Docker` • `Linux` • `Algorithms` • `Data Structures` • `mathematical analysis`
 
 ---
 
