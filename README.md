@@ -32,6 +32,8 @@ I specialize in building scalable backend systems and applying mathematical appr
 
 `Python` is a great language, but `Go` and `Rust` are even better. I think it's time to develop a modern, high-performance language for intelligent systems that combines the benefits of both. It should be strongly typed, have a large vocabulary, and be optimized for high-performance computations at the compiler level.
 
+Lang `Mojo` tryes to solve it, but............. I hope everything works out for them
+
 I'm afraid that `Go`, despite its potential, will remain the language for writing CRUDs. 
 
 `Python` is obsolete, and its supposedly simple syntax is becoming a problem.
