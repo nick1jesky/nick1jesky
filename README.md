@@ -35,7 +35,9 @@ Lang `Mojo` tryes to solve it, but...(There is JuliaGPU, which has a much larger
 I'm afraid that `Go`, despite its potential, will remain the language for writing CRUDs. 
 `Python` is obsolete, and its supposedly simple syntax is becoming a problem.
 
-* I believe to work with Palantir, Anduril, SpaceX, ICEYE, etc. Becouse... It's COOL imho. High-tech, power, Brave New World, PayPal Mafia...
+* I believe to work with Palantir, Anduril, SpaceX, ICEYE, etc. Becouse... It's C00L imho. High-tech, power, Brave New World, PayPal Mafia...
+
+* 0ne day I will finish one of my interesting projects related to prediction and analysis of real-time data
 
 ---
 
