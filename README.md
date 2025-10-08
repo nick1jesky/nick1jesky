@@ -27,6 +27,18 @@ I specialize in building scalable backend systems and applying mathematical appr
 
 ---
 
+
+### 👀 WHAT???
+
+`Python` is a great language, but `Go` and `Rust` are even better. I think it's time to develop a modern, high-performance language for intelligent systems that combines the benefits of both. It should be strongly typed, have a large vocabulary, and be optimized for high-performance computations at the compiler level.
+
+I'm afraid that `Go`, despite its potential, will remain the language for writing CRUDs. 
+
+`Python` is obsolete, and its supposedly simple syntax is becoming a problem.
+
+---
+
+
 ### 📈 GitHub Activity
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nick1jesky&show_icons=true&hide_border=true&theme=radical)
@@ -34,7 +46,7 @@ I specialize in building scalable backend systems and applying mathematical appr
 
 ---
 
-U can watch my projects and repos in my profile!
+U can watch my projects and repos in my profile! (Yes, I only created this profile recently. My projects are gradually migrating here...)
 
 *Open to interesting opportunities and collaborations!*
 <!--
