@@ -1,4 +1,4 @@
-## Hello there 👋 My name is Nikolai
+## It's my github page. Just a chill
 
 **Middle Developer | High-Load & Intelligent Systems**
 
