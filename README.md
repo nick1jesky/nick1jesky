@@ -41,14 +41,14 @@ I'm afraid that `Go`, despite its potential, will remain the language for writin
 
 ---
 
-
+<!--
 ### 📈 GitHub Activity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nick1jesky&show_icons=true&hide_border=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nick1jesky&layout=compact&hide_border=true&theme=dark)
 
 ---
-
+-->
 U can watch my projects and repos in my profile! (Yes, I only created this profile recently. My projects are gradually migrating here...)
 
 *Open to interesting opportunities and collaborations!*
