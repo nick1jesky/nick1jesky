@@ -9,7 +9,7 @@ I specialize in building scalable backend systems and applying mathematical appr
 ### 🛠 Tech Stack & Instruments
 
 **Backend & Systems**
-`Go` • `REST` • `gRPC` • `Gin` • `Echo` • `PostgreSQL` • `Clickhouse` • `Redis` • `MongoDB` • `Docker` • `Linux`
+`Go` • `REST` • `gRPC` • `Gin` • `Echo` • `PostgreSQL` • `Clickhouse` • `Redis` • `Docker` • `Linux`
 
 **Data Science & ML**  
 `Python` • `NumPy` • `PyTorch` • `R` • `Pandas` • `Scikit-learn`
